@@ -5,4 +5,4 @@ Simple toDo app showcase with java play based backend!
 
 2) Place dist's content to public on backend
 
-3) restart play and enjoy
+3) restart play and enjoy (http://localhost:9000/app/home)
